@@ -20,7 +20,8 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
         <div class="container">
             <a class="navbar-brand" href="{{ route('dashboard') }}">
-                <img src="{{ Storage::url('images/gambar.jpg') }}" alt="Logo Sekolah" width="50" height="50">
+                <img src="https://png.pngtree.com/png-vector/20230415/ourmid/pngtree-school-logo-design-template-vector-png-image_6705854.png"
+                    alt="Logo Sekolah" width="50" height="50">
             </a>
             <ul class="navbar-nav">
                 @if (Auth::check())

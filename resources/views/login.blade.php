@@ -19,7 +19,8 @@
                 <div class="card shadow">
                     <div class="card-body p-4">
                         <div class="text-center mb-3">
-                            <img src="{{ asset('images/logo-sekolah.png') }}" alt="Logo Sekolah" class="w-50">
+                            <img src="https://peringkat-siswa-dzda20zwv-afdalcitras-projects.vercel.app"
+                                alt="Logo Sekolah" class="w-50">
                         </div>
                         <h4 class="text-center mb-4">Portal Guru</h4>
 
