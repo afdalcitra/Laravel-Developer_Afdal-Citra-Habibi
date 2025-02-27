@@ -19,7 +19,7 @@
                 <div class="card shadow">
                     <div class="card-body p-4">
                         <div class="text-center mb-3">
-                            <img src="https://peringkat-siswa-dzda20zwv-afdalcitras-projects.vercel.app"
+                            <img src="https://png.pngtree.com/png-vector/20230415/ourmid/pngtree-school-logo-design-template-vector-png-image_6705854.png"
                                 alt="Logo Sekolah" class="w-50">
                         </div>
                         <h4 class="text-center mb-4">Portal Guru</h4>
