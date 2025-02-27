@@ -20,7 +20,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
         <div class="container">
             <a class="navbar-brand" href="{{ route('dashboard') }}">
-                <img src="{{ asset('images/logo-sekolah.png') }}" alt="Logo Sekolah" width="50" height="50">
+                <img src="{{ asset('storage/images/logo-sekolah.png') }}" alt="Logo Sekolah" width="50" height="50">
             </a>
             <ul class="navbar-nav">
                 @if (Auth::check())
