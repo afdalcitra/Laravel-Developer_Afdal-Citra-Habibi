@@ -1,3 +1,5 @@
 # Laravel-Developer_Afdal-Citra-Habibi
 
-# Hosted Web : peringkat-siswa.vercel.app
+# Coding Test Laravel (HashMicro)
+
+# Hosted Web : https://peringkat-siswa.vercel.app
